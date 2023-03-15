@@ -16,7 +16,7 @@ public class AzureRepoDemoApplication {
 	@GetMapping("/demo")
 	public String retString()
 	{
-		return "DEMPO";
+		return "EMPO";
 	}
 
 }
